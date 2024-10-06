@@ -1,4 +1,4 @@
-This is the DOS attck script that will run with python3. You don't need to install python2 because this is the updated script that will run with python3.
+This is the DOS attack script that will run with python3. You don't need to install python2 because this is the updated script that will run with python3.
 Type in the terminal :$ python3 BLAST.py <ip> <port> <packets>
 e.g :$ python3 BLAST.py 192.168.1.1 4444 4500
 Enjoy and don't forget that Hacking without permission is illegal >>> :})
